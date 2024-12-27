@@ -1,0 +1,9 @@
+{ 
+	"name": "nuclear_explosion", 
+	"version": "1.0.0", 
+	"title": "Nuclear Explosion", 
+	"author": "Stefan Kadlubski", 
+	"description": "Makes nuclear power plants explode like an atomic bomb when they reach 1000 degrees. For some added spice.", 
+	"factorio_version": "2.0", 
+	"dependencies": ["base >= 2.0.0"]
+}
